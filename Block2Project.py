@@ -1,3 +1,9 @@
+"""
+WARNINGS
+This tool is for educational use only and should not be used to ensure or confirm that a password is
+secure and strong. This tool should not be used to store or confirm passwords for sensitive or personal information or
+for any external use.
+"""
 # importing a standard for regular expressions
 import re
 
