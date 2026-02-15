@@ -1,5 +1,6 @@
-#Block2Project
-WARNINGS
+#Block2Project 
+
+__WARNINGS__
 - This tool is for educational use only and should not be used to ensure or confirm that a password is secure and strong.
 - This tool should not be used to store or confirm passwords for sensitive or personal information or for any external use. 
 
